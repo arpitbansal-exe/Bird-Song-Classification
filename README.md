@@ -4,7 +4,7 @@
 The approach is the efficient and non-intrusive methods of bird species classification. Traditional approaches, relying on manual observations, are labor-intensive, time-consuming, and often disrupt natural bird behaviors. To address this issue, we aim to leverage bioacoustics and Siamese neural networks to automate the process of identifying bird species based on their vocalizations. This research seeks to provide a solution that enhances productivity, accuracy, and non-intrusiveness in bird species classification, benefiting both avian research and biodiversity conservation efforts.
 
 
-## Database
+## Dataset
 **British Birdsong Dataset** 
 This is a dataset of bird sound recordings, a specific subset gathered from the Xeno Canto collection to form a balanced dataset across 88 species commonly heard in the United Kingdom.
 (https://www.kaggle.com/datasets/rtatman/british-birdsong-dataset)
